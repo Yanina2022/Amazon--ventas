@@ -1,5 +1,5 @@
 <img src= https://github.com/Yanina2022/Amazon--ventas/blob/main/Proyecto_Ventas_Amazon/Captura%20de%20pantalla%202025-05-05%20170113.png  alt="logo amazon" width="300" height="200">
-# Proyecto ventas AMAZON- a modo de tablero informativo sobre las ventas realizadas en los EEUU. en el año 2025.
+<h1> Proyecto ventas AMAZON- a modo de tablero informativo sobre las ventas realizadas en los EEUU. en el año 2025.</h1>
 
 Acerca del conjunto de datos
 Descripción
